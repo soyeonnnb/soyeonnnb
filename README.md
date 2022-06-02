@@ -9,6 +9,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=HUPS-momentum.github.io)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=climbers_planned)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
-🔭 I’m attending HUFS.
-🌱 I’m currently learning Django and javascript. Also I will learn react.js or vue.js and Java Spring!!!
-📫 How to reach me: please send me an email "la28s5d@naver.com"
+- 🔭 I’m attending HUFS.
+- 🌱 I’m currently learning Django and javascript. Also I will learn react.js or vue.js and Java Spring!!!
+- 📫 How to reach me: please send me an email "la28s5d@naver.com"
