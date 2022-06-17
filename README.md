@@ -7,6 +7,7 @@
 ## My Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=db21-minishop)](https://github.com/soyeonnnb/db21-minishop) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=airbnb-clone)](https://github.com/soyeonnnb/airbnb-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=HUPS-momentum.github.io)](https://github.com/soyeonnnb/HUPS-momentum.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=climbers_planned)](https://github.com/soyeonnnb/climbers_planned)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=real-estate-website)](https://github.com/soyeonnnb/real-estate-website)
 
 ## About me
 - 🔭 I’m attending HUFS.
