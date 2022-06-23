@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:9999FF,100:FFCCE5&height=250&text=soyeonnnb&animation=twinkling&fontColor=B266FF&fontAlignY=40)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=soyeonnnb&show_icons=true&theme=buefy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeonnnb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=soyeonnnb&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeonnnb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=db21-minishop)](https://github.com/soyeonnnb/db21-minishop) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=airbnb-clone)](https://github.com/soyeonnnb/airbnb-clone)
