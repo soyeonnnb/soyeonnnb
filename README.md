@@ -9,5 +9,5 @@
 
 ## About me
 - 🔭 I’m attending HUFS.
-- 🌱 I’m currently learning Django and javascript. Also I will learn react.js or vue.js and Java Spring!!!
+- 🌱 I’m currently learning Django and javascript. Now I study nodejs.
 - 📫 How to reach me: please send me an email "la28s5d@naver.com"
