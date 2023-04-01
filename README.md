@@ -8,6 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=real-estate-website)](https://github.com/soyeonnnb/real-estate-website)
 
 ## About me
-- 🔭 I’m attending HUFS.
-- 🌱 I’m currently learning Django and javascript. Now I study nodejs.
+- 🔭 I graudated from HUFS.
+- 💙 I'm attending SSAFY !
+- 🌱 I’m currently learning java and vue.js. Now I study SpringBoot.
 - 📫 How to reach me: please send me an email "la28s5d@naver.com"
