@@ -16,7 +16,7 @@
 ## About me
 - 🔭 I graudated from HUFS.
 - 💙 I'm attending SSAFY !
-- 🌱 I’m currently learning java and vue.js. Now I study SpringBoot.
+- 🌱 I’m currently learning java and react. Now I study SpringBoot.
 - 📫 How to reach me: please send me an email "la28s5d@naver.com"
 
 </div>
