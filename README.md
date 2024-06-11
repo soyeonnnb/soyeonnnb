@@ -11,7 +11,7 @@
 
 ## 💾 My Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=restagram-api)](https://github.com/soyeonnnb/restagram-api) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=restagram-front)](https://github.com/soyeonnnb/restagram-front) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SDC23Korea-DADADA&repo=OneCloset-AITrain)](https://github.com/SDC23Korea-DADADA/OneCloset-AITrain) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SDC23Korea-DADADA&repo=OneCloset-AIServer)](https://github.com/SDC23Korea-DADADA/OneCloset-AIServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SDC23Korea-DADADA&repo=OneCloset-AITrain)](https://github.com/SDC23Korea-DADADA/OneCloset-AITrain) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hihi-square&repo=square-v1)](https://github.com/hihi-square/square-v1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=dallim)](https://github.com/soyeonnnb/dallim)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soyeonnnb&repo=Algorithm)](https://github.com/soyeonnnb/Algorithm)
 
 ## About me
